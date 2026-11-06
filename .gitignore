@@ -1,0 +1,7 @@
+# 操作系统 / 编辑器生成的文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
